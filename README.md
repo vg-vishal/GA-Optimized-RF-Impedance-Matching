@@ -132,6 +132,31 @@ The optimized matching network provides:
 > Detailed simulation graphs and outputs are available in the `Results` folder.
 
 ---
+## 📈 Simulation Results
+
+### Overall Result
+
+![Overall Result](Results/Result.png)
+
+### GA Optimized T-Network
+
+![GA Optimized](Results/GA optmised with T network.png)
+
+### Power Efficiency Without T-Network
+
+![Power Without](Results/:power eff without T network.png)
+
+### Power Efficiency With T-Network
+
+![Power With](Results/power eff with t network.png)
+
+### Reflection Coefficient Without T-Network
+
+![Reflection Without](Results/reflection coeff without T network.png)
+
+### Reflection Coefficient With T-Network
+
+![Reflection With](Results/reflection coeff with t network.png)
 
 ## 🛠️ Tools & Technologies
 
