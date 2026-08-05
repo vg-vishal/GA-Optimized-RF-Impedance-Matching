@@ -136,27 +136,27 @@ The optimized matching network provides:
 
 ### Overall Result
 
-![Overall Result](Results/Simulation_Result.png)
+![Overall Result](Results/Simulation_Result.png.png)
 
 ### GA Optimized T-Network
 
-![GA Optimized](Results/GA_Optimized_T_Network.png)
+![GA Optimized](Results/GA_Optimized_T_Network.png.png)
 
 ### Power Efficiency Without T-Network
 
-![Power Without](Results/Power_Efficiency_Without_T_Network.png)
+![Power Without](Results/Power_Efficiency_Without_T_Network.png.png)
 
 ### Power Efficiency With T-Network
 
-![Power With](Results/Power_Efficiency_With_T_Network.png)
+![Power With](Results/Power_Efficiency_With_T_Network.png.png)
 
 ### Reflection Coefficient Without T-Network
 
-![Reflection Without](Results/Reflection_Coefficient_Without_T_Network.png)
+![Reflection Without](Results/Reflection_Coefficient_Without_T_Network.png.png)
 
 ### Reflection Coefficient With T-Network
 
-![Reflection With](Results/Reflection_Coefficient_With_T_Network.png)
+![Reflection With](Results/Reflection_Coefficient_With_T_Network.png.png)
 
 ## 🛠️ Tools & Technologies
 
